@@ -2,6 +2,11 @@
 
 #### Table of Contents
 
+
+<a href="https://soluinte.com/">
+    <img src="https://soluinte.com/images/logo.png" alt="Girl in a jacket" width="100%">
+</a>
+
 - [About me](#About-me)
 - [Open source job statistics](#-Open-source-job-statistics)
 - [Contact us](#Contact-us)

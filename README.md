@@ -2,7 +2,9 @@
 
 #### Tabla de Contenidos
 
-<img src="https://soluinte.com/images/logo.png" alt="Girl in a jacket" width="200" height="100">
+<a href="https://soluinte.com/">
+    <img src="https://soluinte.com/images/logo.png" alt="Girl in a jacket" width="100%">
+</a>
 
 - [Acerca de](#Acerca-de)
 - [Estadísticas de trabajo](#-Estadísticas-de-trabajo)
