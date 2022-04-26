@@ -9,14 +9,14 @@
 - [Cómo contactarnos](#-Cómo-contactarnos)
 
 <p align=center>
-    <a href="https://github.com/tircnais">
-        <img src="https://badges.pufler.dev/visits/tircnais/tircnais?style=flat-square&color=black&logo=github">
+    <a href="https://github.com/soluinte">
+        <img src="https://badges.pufler.dev/visits/soluinte/soluinte?style=flat-square&color=black&logo=github">
     </a>
-    <a href="https://github.com/tircnais?tab=repositories">
-        <img src="https://badges.pufler.dev/repos/tircnais?style=flat-square&color=black&logo=github">
+    <a href="https://github.com/soluinte?tab=repositories">
+        <img src="https://badges.pufler.dev/repos/soluinte?style=flat-square&color=black&logo=github">
     </a>
-    <a href="https://github.com/tircnais">
-        <img src="https://badges.pufler.dev/commits/monthly/tircnais">
+    <a href="https://github.com/soluinte">
+        <img src="https://badges.pufler.dev/commits/monthly/soluinte">
     </a>
 </p>
 
@@ -53,20 +53,14 @@
   
 ## 📫 Cómo comunicarse conmigo
 
-[![Gmail Cristian](https://img.shields.io/badge/-Teo_Coronel-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:tcoronel@soluinte.com)](mailto:tcoronel@soluinte.com?subject=Estamos%20interesados%20en%20sus%20servicios&body=Me%20interesa%20su%20trabajo,%20contactenos.)
+[![MAIL Teo Coronel](https://img.shields.io/badge/Teo_Coronel-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:tcoronel@soluinte.com)](mailto:tcoronel@soluinte.com?subject=Estamos%20interesados%20en%20sus%20servicios&body=Me%20interesa%20su%20trabajo,%20contactenos.)
 
-[![Gmail Cristian](https://img.shields.io/badge/-Cesar_Vasconez-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:cvasconez@soluinte.com.ec)](mailto:cvasconez@soluinte.com.ec?subject=Estamos%20interesados%20en%20sus%20servicios&body=Me%20interesa%20su%20trabajo,%20contactenos.)
+[![MAIL Cesar Vasconez](https://img.shields.io/badge/Cesar_Vasconez-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:cvasconez@soluinte.com)](mailto:cvasconez@soluinte.com?subject=Estamos%20interesados%20en%20sus%20servicios&body=Me%20interesa%20su%20trabajo,%20contactenos.)
+
+<!--
+[![WhatsApp App Teo Coronel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+593993525873?text=Buen%20día.%20Estamos%20interesados%20en%20sus%20servicios)
+
+[![WhatsApp Escritorio Teo Coronel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://web.whatsapp.com/send?text=Buen%20día.%20Estamos%20interesados%20en%20sus%20servicios&phone=+593993525873&abid=+593993525873)
 
 (02)2249841 / (02)2263640 / 0993526204
-
-[![Gmail Cristian](https://img.shields.io/badge/facebook-La%20Empresa%20Solucint%20Soluciones%20Inteligentes-blue)](https://img.shields.io/badge/facebook-La%20Empresa%20Solucint%20Soluciones%20Inteligentes-blue)
-
-<a href="whatsapp://send?text=Nuestro mensaje predeterminado">aa</a>
-
-https://wa.me/+593993526204?text=mensaje
-
-
-<a href="whatsapp://send?text=Mira lo que he encontrado https://elcssar.com">bb</a>
-
-<a class="whatsappLink desktop" href="http://web.whatsapp.com/send?text=Hola&phone=+593993526204&abid=+593993526204">WhastApp Escritorio</a>
-<a class="whatsappLink mobile" href="whatsapp://send?text=Tu mensaje&phone=+34123456789&abid=+34123456789">WhastApp Móvil</a>
+-->
