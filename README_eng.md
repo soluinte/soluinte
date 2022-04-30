@@ -1,11 +1,10 @@
 # Hello 👋 we are Soluciones Inteligentes
 
-#### Table of Contents
-
-
 <a href="https://soluinte.com/">
     <img src="https://soluinte.com/images/logo.png" alt="Girl in a jacket" width="100%">
 </a>
+
+#### Table of Contents
 
 - [About me](#About-me)
 - [Open source job statistics](#-Open-source-job-statistics)
