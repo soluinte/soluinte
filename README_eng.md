@@ -11,14 +11,14 @@
 - [Contact us](#Contact-us)
 
 <p align=center>
-    <a href="https://github.com/tircnais">
-        <img src="https://badges.pufler.dev/visits/tircnais/tircnais?style=flat-square&color=black&logo=github">
+    <a href="https://github.com/soluinte">
+        <img src="https://badges.pufler.dev/visits/soluinte/soluinte?style=flat-square&color=black&logo=github">
     </a>
-    <a href="https://github.com/tircnais?tab=repositories">
-        <img src="https://badges.pufler.dev/repos/tircnais?style=flat-square&color=black&logo=github">
+    <a href="https://github.com/soluinte?tab=repositories">
+        <img src="https://badges.pufler.dev/repos/soluinte?style=flat-square&color=black&logo=github">
     </a>
-    <a href="https://github.com/tircnais">
-        <img src="https://badges.pufler.dev/commits/monthly/tircnais">
+    <a href="https://github.com/soluinte">
+        <img src="https://badges.pufler.dev/commits/monthly/soluinte">
     </a>
 </p>
 
