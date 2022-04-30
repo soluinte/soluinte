@@ -1,10 +1,10 @@
 # Hola 👋 somos Soluciones Inteligentes
 
-#### Tabla de Contenidos
-
 <a href="https://soluinte.com/">
     <img src="https://soluinte.com/images/logo.png" alt="Girl in a jacket" width="100%">
 </a>
+
+#### Tabla de Contenidos
 
 - [Acerca de](#Acerca-de)
 - [Estadísticas de trabajo](#-Estadísticas-de-trabajo)
