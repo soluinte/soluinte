@@ -6,9 +6,11 @@
 
 #### Tabla de Contenidos
 
-- [Acerca de](#Acerca-de)
-- [Estadísticas de trabajo](#-Estadísticas-de-trabajo)
-- [Cómo contactarnos](#-Cómo-contactarnos)
+- [Hola 👋 somos Soluciones Inteligentes](#hola--somos-soluciones-inteligentes)
+      - [Tabla de Contenidos](#tabla-de-contenidos)
+  - [**Acerca de**](#acerca-de)
+  - [📈 Estadísticas de trabajo](#-estadísticas-de-trabajo)
+  - [📫 Cómo comunicarse conmigo](#-cómo-comunicarse-conmigo)
 
 <p align=center>
     <a href="https://github.com/soluinte">
@@ -57,7 +59,7 @@
 
 [![MAIL Teo Coronel](https://img.shields.io/badge/Teo_Coronel-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:tcoronel@soluinte.com)](mailto:tcoronel@soluinte.com?subject=Estamos%20interesados%20en%20sus%20servicios&body=Me%20interesa%20su%20trabajo,%20contactenos.)
 
-[![MAIL Cesar Vasconez](https://img.shields.io/badge/Cesar_Vasconez-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:cvasconez@soluinte.com)](mailto:cvasconez@soluinte.com?subject=Estamos%20interesados%20en%20sus%20servicios&body=Me%20interesa%20su%20trabajo,%20contactenos.)
+[![MAIL Cesar Vasconez](https://img.shields.io/badge/Cesar_Vasconez-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:cesar.vasconez@soluinte.com)](mailto:cesar.vasconez@soluinte.com?subject=Estamos%20interesados%20en%20sus%20servicios&body=Me%20interesa%20su%20trabajo,%20contactenos.)
 
 <!--
 [![WhatsApp App Teo Coronel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+593993525873?text=Buen%20día.%20Estamos%20interesados%20en%20sus%20servicios)
